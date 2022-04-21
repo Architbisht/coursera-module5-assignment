@@ -1,2 +1,2 @@
 # coursera-module5-assignment
-Link - https://github.com/Architbisht/coursera-module5-assignment.git
+Link - https://architbisht.github.io/coursera-module5-assignment/
